@@ -1,0 +1,18 @@
+[
+    {
+        "jmbg": "1",
+        "ime": "Milos",
+        "prezime": "Milosevic",
+        "datum": "2002-02-02",
+        "predmeti" : ["srpski","matematika","engleski"]
+    }
+,
+    {
+        "jmbg": "2",
+        "ime": "Marko",
+        "prezime": "Markovic",
+        "datum": "2002-02-02",
+        "predmeti" : ["algoritmi","MISS","baze"]
+    }
+]
+
